@@ -115,4 +115,3 @@ You can contact me through the following platforms for inquiries about advanced 
 
 ---
 
-*(Optional: Add a License section here if you choose one, e.g., MIT License)*
